@@ -1,3 +1,7 @@
 # UAS-program-kasir
-# link youtube
-[penjelasan video](https://youtu.be/m2jADOWv7GI)
+# penjelasan video
+[link youtube](https://youtu.be/m2jADOWv7GI)
+# program
+![gambar](dokumentasi/zeeky.png)
+## output
+![gambar](dokumentasi/ss.png)

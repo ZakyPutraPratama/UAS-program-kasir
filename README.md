@@ -1,4 +1,6 @@
 # UAS MEMBUAT PROGRAM KASIR
+# Zaky Putra Pratama
+# 312310613
 # penjelasan video
 [klik link youtube disini](https://youtu.be/m2jADOWv7GI)
 # program

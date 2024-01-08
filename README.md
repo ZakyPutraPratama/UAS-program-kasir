@@ -1,4 +1,4 @@
-# UAS-program-kasir
+# UAS MEMBUAT PROGRAM KASIR
 # penjelasan video
 [link youtube](https://youtu.be/m2jADOWv7GI)
 # program
